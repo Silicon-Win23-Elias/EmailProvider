@@ -2,6 +2,7 @@
 using Azure.Communication.Email;
 using Azure.Messaging.ServiceBus;
 using EmailProvider.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 
